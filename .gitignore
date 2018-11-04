@@ -1,0 +1,3 @@
+# Extend the Laravel defaults by removing some silly stuff
+**/.env.example
+**/*.lock
